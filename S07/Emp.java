@@ -1,4 +1,4 @@
-public class Emple {
+public class Emplea {
    
     // Declaración de atributos
     protected String marca;
