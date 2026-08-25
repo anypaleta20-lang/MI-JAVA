@@ -4,7 +4,6 @@ public class EnvioEstandar extends Envio {
         super(destino);
     }
 
-
     // Uso de método abstracto
     @Override
     public double calcularCosto(double peso) {
